@@ -1,1 +1,1 @@
-![atst](https://github.com/classy-learning/atst-game-asset/atst_progress.png)
+![atst](https://github.com/classy-learning/atst-game-asset/blob/master/atst_progress.png)
